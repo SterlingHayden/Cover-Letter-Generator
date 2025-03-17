@@ -1,0 +1,168 @@
+Data Scientist
+Apply
+remote type
+Hybrid
+locations
+Chicago, IL
+time type
+Full time
+posted on
+Posted 30 Days Ago
+job requisition id
+JR28390
+Department
+
+UL Crime Ed Lab
+
+About the Department
+
+Who We Are  
+In cities across the country, people face high rates of gun violence, under-resourced schools, and social harms associated with the criminal justice system -- all of which disproportionately impact people of color. These inequalities have profound consequences on public safety and opportunity. As a society we have failed to address these challenges, in part, because of our lack of understanding of the most effective and cost-effective solutions that can have a real impact on people’s lives. We believe that rigorous research can help.
+ 
+The University of Chicago Crime Lab and Education Lab partner with cities and communities to use data and rigorous research to design, test, and scale programs and policies that enhance public safety, improve educational outcomes, and advance justice. Our mission is to combine world-class data science and research, in partnership with government agencies, to substantially improve the effectiveness of the public sector and achieve impact at scale.
+ 
+The Role
+The University of Chicago Crime Lab and Education Lab are seeking a data scientist to work on our portfolio of projects applying machine learning to public policy. We’re seeking a smart, motivated, and detail-oriented person to work on all parts of our applied machine learning projects – all the way from cleaning and structuring raw data to developing predictive models and evaluating them in a randomized control trial. An ideal candidate will have experience extracting insights from data and communicating them to both technical and non-technical audiences.
+The position offers the opportunity to work directly with leading researchers at the University of Chicago and policymakers on projects with immediate real-world impact. You will collaborate closely with PhD-level computer science and economics researchers, as well as top-notch research managers and organizational leadership. This position is particularly well-suited for candidates who may be interested in pursuing a PhD in the future or for data scientists who want to transition from industry to public policy research.
+
+Job Summary
+
+The job provides professional support and solves problems in collecting, organizing, and analyzing information from the University's various internal data systems as well as from external sources The job performs data analysis assignments related to data manipulation, statistical applications, programming, analysis and modeling in order to support projects.
+Responsibilities
+
+Contributes to the design, implementation, and validation of an efficient and reproducible data processing pipeline.
+
+Builds and rigorously evaluates statistical models using best practices of machine learning and statistical inference.
+
+Prepares project memos, summaries, presentations, reports, and other work products for dissemination targeting both policymakers, academic researchers, and other stakeholders, as needed.
+
+Analyzes moderately complex data sets for the purpose of extracting and purposefully using applicable information.
+
+Provides professional support to staff or faculty members in defining the project and applying principals of data science in manipulation, statistical applications, programming, analysis and modeling.
+
+Performs other related work as needed.
+
+
+Minimum Qualifications
+
+Education:
+
+Minimum requirements include a college or university degree in related field.
+
+Work Experience:
+
+Minimum requirements include knowledge and skills developed through 2-5 years of work experience in a related job discipline.
+
+Certifications:
+
+---
+
+Preferred Qualifications
+
+Education:
+
+Bachelor's degree in computer science, statistics, data science, economics or a closely related field.
+
+Experience:
+
+Proficiency with statistical data analysis and machine learning using Python or R. Ability to work in both is strongly preferred. 
+
+Preferred Competencies
+
+Advanced knowledge of machine learning techniques and algorithms.
+
+Experience developing reproducible and maintainable code.
+
+Excellent written and verbal communication skills, with the ability to present data in a simple and straightforward way for non-technical audiences.
+
+Strong interpersonal skills.
+
+Strong initiative and a resourceful approach to problem solving and learning. 
+
+Ability to work independently and as part of a team in a fast-paced environment. 
+
+Sound critical thinking skills.
+
+Strong attention to detail with superb analytical and organization skills. 
+
+Familiarity with program evaluation and causal inference. 
+
+Application Documents
+
+Resume (required)
+
+Cover letter (required)
+
+Reference information (required)
+
+
+When applying, the document(s) MUST be uploaded via the My Experience page, in the section titled Application Documents of the application.
+
+
+Job Family
+
+Research
+
+Role Impact
+
+Individual Contributor
+
+Scheduled Weekly Hours
+
+37.5
+
+Drug Test Required
+ 
+
+No
+
+Health Screen Required
+ 
+
+No
+
+Motor Vehicle Record Inquiry Required
+ 
+
+No
+
+Pay Rate Type
+
+Salary
+​
+FLSA Status
+
+Exempt
+​
+Pay Range
+
+$77,350.00 - $100,100.00
+The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting.
+
+
+Benefits Eligible
+
+Yes
+The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the Benefits Guidebook.
+
+
+Posting Statement
+ 
+
+The University of Chicago is an Affirmative Action/Equal Opportunity/Disabled/Veterans and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity, national or ethnic origin, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination.
+
+ 
+
+Staff Job seekers in need of a reasonable accommodation to complete the application process should call 773-702-5800 or submit a request via Applicant Inquiry Form.
+
+ 
+
+We seek a diverse pool of applicants who wish to join an academic community that places the highest value on rigorous inquiry and encourages a diversity of perspectives, experiences, groups of individuals, and ideas to inform and stimulate intellectual challenge, engagement, and exchange.
+
+ 
+
+All offers of employment are contingent upon a background check that includes a review of conviction history.  A conviction does not automatically preclude University employment.  Rather, the University considers conviction information on a case-by-case basis and assesses the nature of the offense, the circumstances surrounding it, the proximity in time of the conviction, and its relevance to the position.
+
+ 
+
+The University of Chicago's Annual Security & Fire Safety Report (Report) provides information about University offices and programs that provide safety support, crime and fire statistics, emergency response and communications plans, and other policies and information. The Report can be accessed online at: http://securityreport.uchicago.edu. Paper copies of the Report are available, upon request, from the University of Chicago Police Department, 850 E. 61st Street, Chicago, IL 60637.
